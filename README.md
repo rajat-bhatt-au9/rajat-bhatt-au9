@@ -1,10 +1,8 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Rajat Bhatt</h1>
-<h3 align="center">A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.</h3>
 
-
- 
-
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" />
+<h3 align="center">A WEB DEVELOPMENT Enthusiast 🚀.</h3>
+<br/><br/><br/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" />
 
 **About Me!**
 
