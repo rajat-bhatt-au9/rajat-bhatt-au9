@@ -1,6 +1,21 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Rajat Bhatt</h1>
-<h3 align="center">A passionate MERN developer from India</h3>
-<p align="center"><img align="center" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" /></p>
+<h3 align="center">A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.</h3>
+
+
+ 
+
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" />
+
+**About Me!**
+
+- 👨🏽‍💻 I’m from Dehradun, Uttarakhand.
+- 🌱 I’m currently exploring Javascript with a big interest in NODEjs and Reactjs. 
+- 🤔 My interest lies in Full Stack web development.
+- 💬 Ask me about anything, I love to answer!
+- 📫 Email me at [rajatbhatt500@gmail.com](mailto:rajatbhatt500@gmail.com).
+
+
+
 
 
 ---
