@@ -1,18 +1,19 @@
-<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Rajat Bhatt</h1>
+<h1 align="center">Hi,<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Rajat Bhatt</h1>
 
 <h3 align="center">A WEB DEVELOPMENT Enthusiast 🚀.</h3>
 <br/><br/><br/>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" />
 
-**About Me!**
+### 🐱About Me:
 
 - 👨🏽‍💻 I’m from Dehradun, Uttarakhand.
 - 🌱 I’m currently exploring Javascript with a big interest in NODEjs and Reactjs. 
 - 🤔 My interest lies in Full Stack web development.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [rajatbhatt500@gmail.com](mailto:rajatbhatt500@gmail.com).
-
 <br/><br/><br/><br/>
+
+
 ---
 ### 🐱My Github stats:
 ![Rajat's github stats](https://github-readme-stats.vercel.app/api?username=rajat-bhatt-au9&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
